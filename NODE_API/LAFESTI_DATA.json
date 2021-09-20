@@ -1,0 +1,33 @@
+{
+        "_id" : ObjectId("613e27b4b1d575e687e40e2d"),
+        "user_id" : 101,
+        "user_name" : "lava",
+        "first_name" : "lavan",
+        "last_name" : "rajagopalan",
+        "email_id" : "lava@gmail.com",
+        "phone_no" : 9444401264,
+        "address" : "saligramam",
+        "bio" : "cape omia"
+}
+{
+        "_id" : ObjectId("613e2978ac9f6229182c6483"),
+        "user_id" : 102,
+        "user_name" : "sandy",
+        "first_name" : "sandhya",
+        "last_name" : "srinivasan",
+        "email_id" : "sandy@gmail.com",
+        "phone_no" : 9489885703,
+        "address" : "tnagar",
+        "bio" : "be yourself"
+}
+{
+        "_id" : ObjectId("613e2a31ac9f6229182c6484"),
+        "user_id" : 103,
+        "user_name" : "vekatesh",
+        "first_name" : "venkatesh",
+        "last_name" : "lakshminarayanan",
+        "email_id" : "venky@gmail.com",
+        "phone_no" : 9444663968,
+        "address" : "thiruvottiyur",
+        "bio" : "Perfect"
+}
