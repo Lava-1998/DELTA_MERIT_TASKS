@@ -1,0 +1,36 @@
+{
+        "_id" : ObjectId("6145c4dfcb294eb6b3c66344"),
+        "user_id" : 10001,
+        "user_name" : "radhika",
+        "first_name" : "radhu",
+        "last_name" : "sarath",
+        "email_id" : "abc@gmail.com",
+        "phone_no" : 9444401264,
+        "address" : "tnagar",
+        "bio" : "busy",
+        "profilepic" : "profilepic-1632238090245-993011523.jpg"
+}
+{
+        "_id" : ObjectId("6147426be04eab110bcf2bcf"),
+        "user_id" : "10002",
+        "user_name" : "shanthu",
+        "first_name" : "shanthi",
+        "last_name" : "ravi",
+        "email_id" : "pqr@gmail.com",
+        "phone_no" : "9489885703",
+        "address" : "mylapore",
+        "bio" : "sad",
+        "profilepic" : "profilepic-1632060011384-783520274.jpg"
+}
+{
+        "_id" : ObjectId("6149f72475d2484fd4b117ec"),
+        "user_id" : "10003",
+        "user_name" : "Sandy",
+        "first_name" : "Sandhya",
+        "last_name" : "Srinivasan",
+        "email_id" : "mno@gmail.com",
+        "phone_no" : "9092598642",
+        "address" : "ambattur",
+        "bio" : "happiness",
+        "profilepic" : "profilepic-1632237348407-404596256.jpg"
+}
